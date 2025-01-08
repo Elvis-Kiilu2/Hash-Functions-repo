@@ -1,4 +1,4 @@
-echo "# Hash Functions Repository
+# Hash Functions Repository
 
 This repository is a collection of resources, and code examples about hash functions, created as part of my Computer Networks and Security class.
 
